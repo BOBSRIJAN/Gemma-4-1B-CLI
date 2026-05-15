@@ -1,4 +1,4 @@
-# Gemma-4-1B-CLI (Custom Semaphore CLI Version)
+# Gemma-4-1B-CLI (Custom CLI Version)
 
 A minimal, custom-built **Gemma Inference CLI** using Hugging Face Transformers. This project can:
 
